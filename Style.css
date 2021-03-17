@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#buttoon {
+    height: 50px;
+    width: 75px;
+    background-color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
